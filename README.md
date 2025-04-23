@@ -1,2 +1,2 @@
 # Student-Result
-Student Result app
+Parth Rand
